@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+node_modules/
+bloodBank
+.env
+build
+run.py
